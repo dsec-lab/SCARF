@@ -1,2 +1,2 @@
 # MSA
-Coming Soon~~~
+Coming Soon.
