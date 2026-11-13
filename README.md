@@ -1,2 +1,2 @@
-# SCARF: Topology-Aware Contrastive Fusion for Multimodal Sentiment Analysis
+# SCARF: Conditioning Sentiment Neighborhoods on Cross-Modal Distance Agreement
 Coming Soon.
